@@ -1,0 +1,21 @@
+技能  ：归纳思路
+1.什么是基础？？
+    对于咱们前端系来说 构成一个完整页面的基础有三部分：html + css + javscript；分别代表结构 + 样式 +行为
+2.有哪些类/库和插件？？
+   类库有如jquery  Zepto 
+   插件常用到的有  Swiper  Echarts  Iscrool  video.js
+3.你遇到过那些框架开发？？
+   最早使用的是bootstrop 页面自适应  开发框架有react 一些大型公司用 比如facebook（脸书）  谷歌  火狐   Vue  angular.js vue经典手机端饿了吗 angular.js 阿里云
+4.相关
+vuex
+vue-router
+vue-resource.js
+vue-ui-router
+vue-ivew
+vue-axios
+
+5.思想和经验
+   思想和经验就是 自己针对整体项目的想法 比如刚接手项目 要把他分为几个模块去做 分别根据要求实现100%还原 在这个过程中需要用到的时间。然后就开始具体化做项目模块，其中首先 要用到哪些元素更有利于用户体验 其次 有利于后期维护 最后有利于seo优化。
+
+
+项目：技术挖掘思路
